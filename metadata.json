@@ -1,0 +1,6 @@
+{
+  "name": "Furniture Marketplace",
+  "description": "A marketplace where users can purchase furniture with secure payment processing, and sellers can list items for sale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
